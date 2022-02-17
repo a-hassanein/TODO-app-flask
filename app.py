@@ -220,6 +220,8 @@ db.create_all()
 app.run(host='127.0.0.1', port=5000, debug=True)
 
 
+# lab 1
+# #####
 
 # from flask import Flask, jsonify, render_template, request
 
