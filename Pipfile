@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+wtforms = "*"
+flask-wtf = "*"
+flask-sqlalchemy = "*"
+ipdb = "*"
+psycopg2 = "*"
+flask-jwt = "*"
+flask-jwt-extended = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
